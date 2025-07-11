@@ -54,27 +54,22 @@
 <h2 align="center">📈 Estadísticas</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=robin&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robin&theme=radical" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=robin&theme=radical" width="400"/>
 </p>
 
 ---
 
 <h2 align="center">🌐 Conéctate conmigo</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-36D1C4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:tuemail@dominio.com"><img src="https://img.shields.io/badge/Email-36D1C4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/tuusuario" target="_blank"><img src="https://img.shields.io/badge/Twitter-36D1C4?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/Astrssuy" target="_blank"><img src="https://img.shields.io/badge/GitHub-36D1C4?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:robinxonx37@gmail.com"><img src="https://img.shields.io/badge/Email-36D1C4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-<h2 align="center">🌊 Vibra Futurista</h2>
+<h2 align="center">⚡ Final Futurista</h2>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=36D1C4&height=200&section=header&text=Futuro%20en%20Movimiento&fontSize=40&fontAlignY=40"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36D1C4&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=36D1C4&height=60&section=footer&animation=twinkling"/>
 </p>
 
 <!-- Personaliza los enlaces y nombres de usuario según tu información real --> 
