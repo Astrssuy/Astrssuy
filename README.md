@@ -8,40 +8,46 @@
 
 <h2 align="center">🚀 Sobre mí</h2>
 
-- 👨‍💻 Desarrollador Full Stack con experiencia en **React, Node.js, MySQL, Electron y más**.
+- 👨‍💻 Desarrollador Full Stack con experiencia en **React, Node.js, MySQL, Electron, C#, C++, .NET, Java y más**.
 - 🎨 Amante del diseño futurista y las interfaces modernas.
 - 🌌 Siempre explorando nuevas tecnologías y creando proyectos innovadores.
 - 🛠️ Me encanta automatizar procesos y optimizar el flujo de trabajo.
+- 🧠 Aprendiz de por vida, siempre buscando nuevos retos.
+- 🤝 Colaborativo y apasionado por el trabajo en equipo.
 
 ---
 
 <h2 align="center">🛠️ Tecnologías y Herramientas</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,js,ts,html,css,git,electron,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,js,ts,html,css,git,electron,figma,vscode,cpp,cs,dotnet,java" />
 </p>
 
 ---
 
-<h2 align="center">✨ Proyectos Destacados</h2>
+<h2 align="center">🌟 Frase que me inspira</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=36D1C4&center=true&vCenter=true&width=600&lines=La+tecnolog%C3%ADa+es+el+arte+de+crear+futuros." alt="Inspiración"/>
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=robin&repo=proyecto1&theme=radical" width="350"/>
-        <br />
-        <b>Proyecto Futurista</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=robin&repo=proyecto2&theme=radical" width="350"/>
-        <br />
-        <b>App de Automatización</b>
-      </a>
-    </td>
-  </tr>
-</table>
+---
+
+<h2 align="center">🎯 Objetivos Actuales</h2>
+
+- 🚀 Mejorar mis habilidades en inteligencia artificial y machine learning.
+- 🌱 Contribuir a proyectos open source.
+- 🏆 Desarrollar soluciones que impacten positivamente en la sociedad.
+- 📚 Compartir conocimiento y aprender de la comunidad.
+
+---
+
+<h2 align="center">💡 Fun Facts</h2>
+
+- 🕹️ Fan de los videojuegos retro y la cultura geek.
+- ☕ El café es mi mejor compañero de código.
+- 🎧 Siempre programando con música electrónica de fondo.
+- 💻 Mi primer lenguaje de programación fue **C++**.
+- 🔥 Tengo experiencia en **C#, C++, .NET y Java**.
+- 🏅 **TypeScript** es mi lenguaje favorito.
 
 ---
 
@@ -62,6 +68,7 @@
 
 ---
 
+<h2 align="center">🧩 Mi GitHub es como un puzzle en constante evolución</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/robin/robin/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
