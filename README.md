@@ -68,9 +68,9 @@
 
 ---
 
-<h2 align="center">🧩 Mi GitHub es como un puzzle en constante evolución</h2>
+<h2 align="center">🌊 Vibra Futurista</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/robin/robin/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=36D1C4&height=200&section=header&text=Futuro%20en%20Movimiento&fontSize=40&fontAlignY=40"/>
 </p>
 
 <p align="center">
