@@ -51,11 +51,14 @@
 
 ---
 
-<h2 align="center">📈 Estadísticas</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robin&show_icons=true&theme=radical" width="450"/>
-  <img src="https://streak-stats.demolab.com?user=robin&theme=radical" width="400"/>
-</p>
+<h2 align="center">📊 Estadísticas y Logros</h2>
+
+- 📁 Más de 4 repositorios públicos en GitHub.
+- 🏗️ Proyectos desarrollados en Java, TypeScript, C++, y más.
+- ⏳ Experiencia en desarrollo continuo y aprendizaje autodidacta.
+- 🤝 Colaboraciones en proyectos open source y trabajo en equipo.
+- 🏆 Reconocido por la creatividad y la pasión en el desarrollo de software.
+- 💬 Siempre disponible para ayudar y compartir conocimiento con la comunidad.
 
 ---
 
@@ -69,7 +72,7 @@
 
 <h2 align="center">⚡ Final Futurista</h2>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=36D1C4&height=60&section=footer&animation=twinkling"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" height="60"/>
 </p>
 
 <!-- Personaliza los enlaces y nombres de usuario según tu información real --> 
